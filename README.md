@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Language-Python-blue" alt="Favorite Language">
 </p>
 <h1 align="center">Who Am I?<h1>
-<p align="center">❤Gw cowo 13th,dari Indonesia🇮🇩,cita-cita gw mau jadi programmer😉.</p>
-
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
